@@ -1,5 +1,3 @@
-<img height="25px" src="Sherma'nWilson.mp4"/>
-
 <img height="180em" src="https://media2.giphy.com/media/xVo74Qz3sM3K4lrILH/giphy.gif?cid=ecf05e4792porv2gq2rndj88nrijetkv5x8qv9tau8ned6ha&rid=giphy.gif&ct=g"  style="text-align:center;"/>
 
 - 👋 Hi, I’m Sherma'n Wilson
